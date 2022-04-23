@@ -13,7 +13,7 @@ Hi, how are you? nun
     <li> 💮I’m looking to collaborate on my team, school, and clubs.💮</li>
     <li>🌸  I’m looking for help with understanding code better and how to draw better.🌸</li>
     <li>💮 Ask me about anything!💮</li>
-    <li>🌸  How to reach me:gmail- ixchelmax5@gmail.com tiktok-itsme_chichel🌸</li>
+    <li>🌸  How to reach me:gmail- ixchelmax5@gmail.com tiktok-itsme_chichel insta-itsme_chichel🌸</li>
     <li>💮 Pronouns:she/her💮</li>
     <li>🌸  Fun fact:I play about 4 instruments and sing!🌸</li>
     <ul/>
